@@ -17,9 +17,9 @@ Topics discussed in course:
 | # | Date | Description | Slides |
 |---------|------|-------------|---------|
 | 1 | February, 8 | <b>Lecture:</b> Introduction and Digital Signal Processing | [slides](lectures/lecture01/lecture01_DLAudio2023.pdf) |
-|  | February, 8 | <b>Seminar:</b> Introduction and Spectrograms | [notebook](seminars/seminar1/seminar1.ipynb) |
+|  | February, 8 | <b>Seminar:</b> Introduction and Spectrograms | [notebook](seminars/seminar01/seminar1.ipynb) |
 | 2 | February, 15 | <b>Lecture:</b> Automatic Speech Recognition 1: introduction, CTC, LAS | [slides](lectures/lecture02/lecture02_DLAudio2023.pdf) |
-|  | February, 15 | <b>Seminar:</b> WER, Levenstein distance, Griffin-Lim Algorithm | [notebook](seminars/seminar2/seminar2.ipynb) |
+|  | February, 15 | <b>Seminar:</b> WER, Levenstein distance, Griffin-Lim Algorithm | [notebook](seminars/seminar02/seminar2.ipynb) |
 | 3 | February, 22 | <b>Lecture:</b> Automatic Speech Recognition 2: RNN-T, Language models in ASR, BPE |  |
 |  | February, 22 | <b>Seminar:</b> CTC, Beam Search |  |
 | 4 | March, 1 | <b>Lecture:</b> Key-word spotting (KWS) |  |
