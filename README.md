@@ -19,15 +19,15 @@ Topics discussed in course:
 | 1 | February, 8 | <b>Lecture:</b> Introduction and Digital Signal Processing | [slides](lectures/lecture01/lecture01_DLAudio2023.pdf) |
 |  | February, 8 | <b>Seminar:</b> Introduction and Spectrograms | [notebook](seminars/seminar1/seminar1.ipynb) |
 | 2 | February, 15 | <b>Lecture:</b> Automatic Speech Recognition 1: introduction, CTC, LAS | [slides](lectures/lecture02/lecture02_DLAudio2023.pdf) |
-|  | February, 15 | <b>Seminar:</b> WER, CTC, Griffin-Lim Algorithm | [notebook](seminars/seminar2/seminar2.ipynb) |
-| 3 | February, 22 | <b>Lecture:</b> |  |
-|  | February, 22 | <b>Seminar:</b> |  |
-| 4 | March, 1 | <b>Lecture:</b> |  |
-|  | March, 1 | <b>Seminar:</b> |  |
-| 5 | March, 15 | <b>Lecture:</b> |  |
-|  | March, 15 | <b>Seminar:</b> |  |
-| 6 | March, 22 | <b>Lecture:</b> |  |
-|  | March, 22 | <b>Seminar:</b> |  |
+|  | February, 15 | <b>Seminar:</b> WER, Levenstein distance, Griffin-Lim Algorithm | [notebook](seminars/seminar2/seminar2.ipynb) |
+| 3 | February, 22 | <b>Lecture:</b> Automatic Speech Recognition 2: RNN-T, Language models in ASR, BPE |  |
+|  | February, 22 | <b>Seminar:</b> CTC, Beam Search |  |
+| 4 | March, 1 | <b>Lecture:</b> Key-word spotting (KWS) |  |
+|  | March, 1 | <b>Seminar:</b> RNN-T |  |
+| 5 | March, 15 | <b>Lecture:</b> Text-to-speech: Tacotron, FastSpeech, Guided Attention |  |
+|  | March, 15 | <b>Seminar:</b> Speech generation (TTS): Tacotron2 |  |
+| 6 | March, 22 | <b>Lecture:</b>  Text-to-speech: Neural Vocoders (WaveNet, PWGAN, DiffWave) |  |
+|  | March, 22 | <b>Seminar:</b>  |  |
 | 7 |  |  |  |
 |  |  |  |  |
 | 8 |  |  |  |
@@ -42,10 +42,10 @@ Topics discussed in course:
 ## Homeworks
 | Homework | Date | Deadline | Description | Link |
 |---------|------|-------------|--------|-------|
-| 1 |  |  | <ol><li>Audio classification</li><li>Audio preprocessing</li></ol> | [![Open In Github](https://img.shields.io/static/v1.svg?logo=github&label=Repo&message=Open%20in%20Github&color=lightgrey)](homeworks/hw1.ipynb)<br>[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()  |
-| 2 |  |  |  | [![Open In Github](https://img.shields.io/static/v1.svg?logo=github&label=Repo&message=Open%20in%20Github&color=lightgrey)]()<br>[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]() |
-| 3 |  |  | | [![Open In Github](https://img.shields.io/static/v1.svg?logo=github&label=Repo&message=Open%20in%20Github&color=lightgrey)]()<br>[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]() |
-| 4 |  |  |  | [![Open In Github](https://img.shields.io/static/v1.svg?logo=github&label=Repo&message=Open%20in%20Github&color=lightgrey)]()<br>[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]() |
+| 1 | TBA |  | <ol><li>Audio classification</li><li>Audio preprocessing</li></ol> |   |
+| 2 | TBA |  |  | |
+| 3 | TBA |  | | |
+| 4 | TBA |  |  | |
 
 ## Game rules
 - 4 homeworks each of 2 points = **8 points**
