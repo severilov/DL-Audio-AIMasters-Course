@@ -42,7 +42,7 @@ Topics discussed in course:
 ## Homeworks
 | Homework | Date | Deadline | Description | Link |
 |---------|------|-------------|--------|-------|
-| 1 | February, 21 | March, 7 | <ol><li>Audio classification</li><li>Audio preprocessing</li></ol> | [![Open In Github](https://img.shields.io/static/v1.svg?logo=github&label=Repo&message=Open%20in%20Github&color=lightgrey)](homeworks/hw1/hw1.ipynb) |
+| 1 | February, 21 | March, 7 | <ol><li>Audio classification</li><li>Audio preprocessing</li></ol> | [![Open In Github](https://img.shields.io/static/v1.svg?logo=github&label=Repo&message=Open%20in%20Github&color=lightgrey)](homeworks/hw1/) |
 | 2 | TBA |  | ASR-1: CTC | |
 | 3 | TBA |  | ASR-2: RNN-T | |
 | 4 | TBA |  | Text-to-speech | |
