@@ -30,8 +30,8 @@ Topics discussed in course:
 |  | March, 22 | <b>Seminar:</b> Speech generation (TTS): Tacotron2 | [notebook](seminars/seminar06/seminar6.ipynb) |
 | 7 | March, 29 | <b>Lecture:</b>  Voice Conversion: AutoVC, CycleGAN-VC, StarGAN-VC | [slides](lectures/lecture07_DLAudio2023.pdf) |
 |  | March, 29 | <b>Seminar:</b> Wavenet | [notebook](seminars/seminar07/seminar7.ipynb) |
-| 8 | April, 5 | <b>Lecture:</b> Self-supervision in Audio |  |
-|  | April, 5 | <b>Seminar:</b> Advanced Vocoders: VAE Vocoder, HIFI-GAN |  |
+| 8 | April, 5 | <b>Lecture:</b> Self-supervised learning in Audio | [slides](lectures/lecture08_DLAudio2023.pdf) |
+|  | April, 5 | <b>Seminar:</b> Advanced Vocoders | [notebook](seminars/seminar08/seminar8.ipynb) |
 | 9 | April, 12 | <b>Lecture:</b> Speech Enhancement |  |
 |  | April, 12 | <b>Seminar:</b> Speaker verification |  |
 | 10 | April, 19 | <b>Lecture:</b> Music Generation |  |
