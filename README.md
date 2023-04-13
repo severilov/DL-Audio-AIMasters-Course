@@ -43,8 +43,8 @@ Topics discussed in course:
 |---------|------|-------------|--------|-------|
 | 1 | February, 21 | March, 7 | <ol><li>Audio classification</li><li>Audio preprocessing</li></ol> | [![Open In Github](https://img.shields.io/static/v1.svg?logo=github&label=Repo&message=Open%20in%20Github&color=lightgrey)](homework/hw1/) |
 | 2 | March, 13 | March, 27 | ASR-1: CTC |[![Open In Github](https://img.shields.io/static/v1.svg?logo=github&label=Repo&message=Open%20in%20Github&color=lightgrey)](homework/hw2/)  |
-| 3 | April, 1 | April, 16 | ASR-2: RNN-T | [![Open In Github](https://img.shields.io/static/v1.svg?logo=github&label=Repo&message=Open%20in%20Github&color=lightgrey)](homework/hw3/) |
-| 4 | April, 15 | May, 3 | Text-to-speech | |
+| 3 | April, 13 | April, 27 | ASR-2: RNN-T | [![Open In Github](https://img.shields.io/static/v1.svg?logo=github&label=Repo&message=Open%20in%20Github&color=lightgrey)](homework/hw3/) |
+| 4 |  | May, 9 | Text-to-speech | |
 
 ## Game rules
 - 4 homeworks each of 2 points = **8 points**
