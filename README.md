@@ -32,8 +32,8 @@ Topics discussed in course:
 |  | March, 29 | <b>Seminar:</b> Wavenet | [notebook](seminars/seminar07/seminar7.ipynb) |
 | 8 | April, 5 | <b>Lecture:</b> Self-supervised learning in Audio | [slides](lectures/lecture08_DLAudio2023.pdf) |
 |  | April, 5 | <b>Seminar:</b> Advanced Vocoders | [notebook](seminars/seminar08/seminar8.ipynb) |
-| 9 | April, 12 | <b>Lecture:</b> Speech Enhancement |  |
-|  | April, 12 | <b>Seminar:</b> Speaker verification |  |
+| 9 | April, 12 | <b>Lecture:</b> Speaker verification and identification | [slides](lectures/lecture09_DLAudio2023.pdf) |
+|  | April, 12 | <b>Seminar:</b> Hi-Fi GAN | [notebook](seminars/seminar09/seminar9.ipynb) |
 | 10 | April, 19 | <b>Lecture:</b> Music Generation |  |
 |  | April, 19 | <b>Seminar:</b> |  |
 
