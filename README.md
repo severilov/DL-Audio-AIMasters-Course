@@ -31,7 +31,7 @@ Topics discussed in course:
 | 7 | March, 29 | <b>Lecture:</b>  Voice Conversion: AutoVC, CycleGAN-VC, StarGAN-VC | [slides](lectures/lecture07_DLAudio2023.pdf) |
 |  | March, 29 | <b>Seminar:</b> Wavenet | [notebook](seminars/seminar07/seminar7.ipynb) |
 | 8 | April, 5 | <b>Lecture:</b> Self-supervised learning in Audio | [slides](lectures/lecture08_DLAudio2023.pdf) |
-|  | April, 5 | <b>Seminar:</b> Advanced Vocoders | [notebook](seminars/seminar08/seminar8.ipynb) |
+|  | April, 5 | <b>Seminar:</b> Advanced Vocoders | [notebook](seminars/seminar08/seminar.ipynb) |
 | 9 | April, 12 | <b>Lecture:</b> Speaker verification and identification | [slides](lectures/lecture09_DLAudio2023.pdf) |
 |  | April, 12 | <b>Seminar:</b> Hi-Fi GAN | [notebook](seminars/seminar09/seminar.ipynb) |
 | 10 | April, 19 | <b>Lecture:</b> Music Generation |  |
