@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/severilov/DL-Audio-AIMasters-Course/blob/main/seminars/seminar10/seminar.ipynb)
+
 ## A-Softmax
 
 - [SphereFace: Deep Hypersphere Embedding for Face Recognition](https://arxiv.org/abs/1704.08063)
