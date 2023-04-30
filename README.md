@@ -34,8 +34,8 @@ Topics discussed in course:
 |  | April, 5 | <b>Seminar:</b> Advanced Vocoders | [notebook](seminars/seminar08/seminar.ipynb) |
 | 9 | April, 12 | <b>Lecture:</b> Speaker verification and identification | [slides](lectures/lecture09_DLAudio2023.pdf) |
 |  | April, 12 | <b>Seminar:</b> Hi-Fi GAN | [notebook](seminars/seminar09/seminar.ipynb) |
-| 10 | April, 19 | <b>Lecture:</b> Music Generation |  |
-|  | April, 19 | <b>Seminar:</b> |  |
+| 10 | April, 19 | <b>Lecture:</b> Music Generation | [slides](lectures/lecture10_DLAudio2023.pdf) |
+|  | April, 19 | <b>Seminar:</b> Speaker verification | [notebook](seminars/seminar10/seminar.ipynb) |
 
 
 ## Homeworks
@@ -44,7 +44,7 @@ Topics discussed in course:
 | 1 | February, 21 | March, 7 | <ol><li>Audio classification</li><li>Audio preprocessing</li></ol> | [![Open In Github](https://img.shields.io/static/v1.svg?logo=github&label=Repo&message=Open%20in%20Github&color=lightgrey)](homework/hw1/) |
 | 2 | March, 13 | March, 27 | ASR-1: CTC |[![Open In Github](https://img.shields.io/static/v1.svg?logo=github&label=Repo&message=Open%20in%20Github&color=lightgrey)](homework/hw2/)  |
 | 3 | April, 13 | April, 27 | ASR-2: RNN-T | [![Open In Github](https://img.shields.io/static/v1.svg?logo=github&label=Repo&message=Open%20in%20Github&color=lightgrey)](homework/hw3/) |
-| 4 |  | May, 9 | Text-to-speech | |
+| 4 | April, 30 | May, 10 | Text-to-speech: FastPitch | [![Open In Github](https://img.shields.io/static/v1.svg?logo=github&label=Repo&message=Open%20in%20Github&color=lightgrey)](homework/hw4/) |
 
 ## Game rules
 - 4 homeworks each of 2 points = **8 points**
