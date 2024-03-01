@@ -21,7 +21,7 @@ Topics discussed in course:
 | 2 | February, 22 | <b>Lecture:</b> Automatic Speech Recognition 1: introduction, CTC, LAS                      | [slides](lectures/lecture02_DLAudio2023.pdf) |
 |  | February, 22 | <b>Seminar:</b> WER, Levenstein distance, CTC                                               | [notebook](seminars/seminar02/seminar2.ipynb) |
 | 3 | February, 29 | <b>Lecture:</b> Automatic Speech Recognition 2: RNN-T, Language models in ASR, BPE, Whisper | [slides](lectures/lecture03_DLAudio2023.pdf) |
-|  | February, 29 | <b>Seminar:</b> Automatic Speech Recognition 2: RNN-T, Whisper                                     | [notebook](seminars/seminar03/seminar3.ipynb) |
+|  | February, 29 | <b>Seminar:</b> Automatic Speech Recognition 2: RNN-T, Whisper                                     | [notebook](seminars/seminar03) |
 | 4 | March, 7 | <b>Lecture:</b> Key-word spotting (KWS)                                                     | [slides](lectures/lecture04_DLAudio2023.pdf) |
 |  | March, 7 | <b>Seminar:</b> RNN-T                                                                       | [notebook](seminars/seminar04/seminar4.ipynb) |
 | 5 | March, 14 | <b>Lecture:</b> Text-to-speech: Tacotron, FastSpeech, Guided Attention                      | [slides](lectures/lecture05_DLAudio2023.pdf) |
