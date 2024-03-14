@@ -23,11 +23,11 @@ Topics discussed in course:
 | 3 | February, 29 | <b>Lecture:</b> Automatic Speech Recognition 2: RNN-T, Language models in ASR, BPE, Whisper | [slides](lectures/lecture03_DLAudio2024.pdf) |
 |  | February, 29 | <b>Seminar:</b> Automatic Speech Recognition 2: RNN-T, Whisper                                     | [notebook](seminars/seminar03) |
 | 4 | March, 7 | <b>Lecture:</b> Key-word spotting (KWS)                                                     | [slides](lectures/lecture04_DLAudio2024.pdf) |
-|  | March, 7 | <b>Seminar:</b> RNN-T                                                                       | [notebook](seminars/seminar04/seminar4.ipynb) |
+|  | March, 7 | <b>Seminar:</b> Key-word spotting                                                                       | [notebook](seminars/seminar04/seminar4.ipynb) |
 | 5 | March, 14 | <b>Lecture:</b> Text-to-speech: Tacotron, FastSpeech, Guided Attention                      | [slides](lectures/lecture05_DLAudio2024.pdf) |
-|  | March, 14 | <b>Seminar:</b> Key-word spotting                                                           | [notebook](seminars/seminar05/seminar5.ipynb) |
+|  | March, 14 | <b>Seminar:</b> Speech generation (TTS): Tacotron2                                              | [notebook](seminars/seminar05/seminar5.ipynb) |
 | 6 | March, 21 | <b>Lecture:</b>  Text-to-speech: Neural Vocoders (WaveNet, PWGAN, DiffWave)                 | [slides](lectures/lecture06_DLAudio2024.pdf) |
-|  | March, 21 | <b>Seminar:</b> Speech generation (TTS): Tacotron2                                          | [notebook](seminars/seminar06/seminar6.ipynb) |
+|  | March, 21 | <b>Seminar:</b> Speech generation (TTS)                                         | [notebook](seminars/seminar06/seminar6.ipynb) |
 | 7 | March, 28 | <b>Lecture:</b>  Voice Conversion: AutoVC, CycleGAN-VC, StarGAN-VC                          | [slides](lectures/lecture07_DLAudio2024.pdf) |
 |  | March, 28 | <b>Seminar:</b> Wavenet                                                                     | [notebook](seminars/seminar07/seminar7.ipynb) |
 | 8 | April, 4 | <b>Lecture:</b> Self-supervised learning in Audio                                           | [slides](lectures/lecture08_DLAudio2024.pdf) |
