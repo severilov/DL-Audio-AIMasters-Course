@@ -14,30 +14,30 @@ Topics discussed in course:
 ## Course materials
 ## Materials
 
-| # | Date | Description                                                                                 | Slides |
-|---------|------|---------------------------------------------------------------------------------------------|---------|
-| 1 | February, 15 | <b>Lecture:</b> Introduction and Digital Signal Processing                                  | [slides](lectures/lecture01_DLAudio2024.pdf) |
+| # | Date         | Description                                                                                 | Slides                                        |
+|---------|--------------|---------------------------------------------------------------------------------------------|-----------------------------------------------|
+| 1 | February, 15 | <b>Lecture:</b> Introduction and Digital Signal Processing                                  | [slides](lectures/lecture01_DLAudio2024.pdf)  |
 |  | February, 15 | <b>Seminar:</b> Introduction and Spectrograms, Griffin-Lim Algorithm                        | [notebook](seminars/seminar01/seminar1.ipynb) |
-| 2 | February, 22 | <b>Lecture:</b> Automatic Speech Recognition 1: introduction, CTC, LAS                      | [slides](lectures/lecture02_DLAudio2024.pdf) |
+| 2 | February, 22 | <b>Lecture:</b> Automatic Speech Recognition 1: introduction, CTC, LAS                      | [slides](lectures/lecture02_DLAudio2024.pdf)  |
 |  | February, 22 | <b>Seminar:</b> WER, Levenstein distance, CTC                                               | [notebook](seminars/seminar02/seminar2.ipynb) |
-| 3 | February, 29 | <b>Lecture:</b> Automatic Speech Recognition 2: RNN-T, Language models in ASR, BPE, Whisper | [slides](lectures/lecture03_DLAudio2024.pdf) |
-|  | February, 29 | <b>Seminar:</b> Automatic Speech Recognition 2: RNN-T, Whisper                              | [notebook](seminars/seminar03) |
-| 4 | March, 7 | <b>Lecture:</b> Key-word spotting (KWS)                                                     | [slides](lectures/lecture04_DLAudio2024.pdf) |
-|  | March, 7 | <b>Seminar:</b> Key-word spotting                                                           | [notebook](seminars/seminar04/seminar4.ipynb) |
-| 5 | March, 14 | <b>Lecture:</b> Text-to-speech: Tacotron, FastSpeech, Guided Attention                      | [slides](lectures/lecture05_DLAudio2024.pdf) |
-|  | March, 14 | <b>Seminar:</b> Speech generation (TTS): Tacotron2                                          | [notebook](seminars/seminar05/seminar5.ipynb) |
-| 6 | March, 28 | <b>Lecture:</b>  Text-to-speech: Neural Vocoders (WaveNet, PWGAN, DiffWave)                 | [slides](lectures/lecture06_DLAudio2024.pdf) |
-|  | April, 4 | <b>Seminar:</b> Wavenet                                                                     | [notebook](seminars/seminar06/seminar6.ipynb) |
-| 7 | March, 28 | <b>Lecture:</b>  Voice Conversion: AutoVC, CycleGAN-VC, StarGAN-VC                          | [slides](lectures/lecture07_DLAudio2024.pdf) |
-|  | April, 4 | <b>Seminar:</b> VAE Wavenet Vocoder, Normalizing Flow                                       | [notebook](seminars/seminar07/seminar7.ipynb) |
-| 8 | April, 4 | <b>Lecture:</b> Self-supervised learning in Audio                                           | [slides](lectures/lecture08_DLAudio2024.pdf) |
-|  | April, 4 | <b>Seminar:</b> Advanced Vocoders                                                           | [notebook](seminars/seminar08/seminar.ipynb) |
-| 9 | April, 11 | <b>Lecture:</b> Speaker verification and identification                                     | [slides](lectures/lecture09_DLAudio2024.pdf) |
-|  | April, 11 | <b>Seminar:</b> Hi-Fi GAN                                                                   | [notebook](seminars/seminar09/seminar.ipynb) |
-| 10 | April, 18 | <b>Lecture:</b> Music Generation                                                            | [slides](lectures/lecture10_DLAudio2024.pdf) |
-|  | April, 18 | <b>Seminar:</b> Speaker verification                                                        | [notebook](seminars/seminar10/seminar.ipynb) |
-| 11 | April, 25 | <b>Lecture:</b> TBA                                                                         | [slides](lectures/lecture10_DLAudio2024.pdf) |
-|  | April, 25 | <b>Seminar:</b> TBA                                                                         | [notebook](seminars/seminar10/seminar.ipynb) |
+| 3 | February, 29 | <b>Lecture:</b> Automatic Speech Recognition 2: RNN-T, Language models in ASR, BPE, Whisper | [slides](lectures/lecture03_DLAudio2024.pdf)  |
+|  | February, 29 | <b>Seminar:</b> Automatic Speech Recognition 2: RNN-T, Whisper                              | [notebook](seminars/seminar03)                |
+| 4 | March, 7     | <b>Lecture:</b> Key-word spotting (KWS)                                                     | [slides](lectures/lecture04_DLAudio2024.pdf)  |
+|  | March, 7     | <b>Seminar:</b> Key-word spotting                                                           | [notebook](seminars/seminar04/seminar4.ipynb) |
+| 5 | March, 14    | <b>Lecture:</b> Text-to-speech: Tacotron, FastSpeech, Guided Attention                      | [slides](lectures/lecture05_DLAudio2024.pdf)  |
+|  | March, 14    | <b>Seminar:</b> Speech generation (TTS): Tacotron2                                          | [notebook](seminars/seminar05/seminar5.ipynb) |
+| 6 | March, 28    | <b>Lecture:</b>  Text-to-speech: Neural Vocoders (WaveNet, PWGAN, DiffWave)                 | [slides](lectures/lecture06_DLAudio2024.pdf)  |
+|  | April, 4     | <b>Seminar:</b> Wavenet                                                                     | [notebook](seminars/seminar06/seminar6.ipynb) |
+| 7 | March, 28    | <b>Lecture:</b>  Voice Conversion: AutoVC, CycleGAN-VC, StarGAN-VC                          | [slides](lectures/lecture07_DLAudio2024.pdf)  |
+|  | April, 4     | <b>Seminar:</b> VAE Wavenet Vocoder, Normalizing Flow                                       | [notebook](seminars/seminar07/seminar7.ipynb) |
+| 8 | April, 4     | <b>Lecture:</b> Self-supervised learning in Audio                                           | [slides](lectures/lecture08_DLAudio2024.pdf)  |
+|  | April, 11    | <b>Seminar:</b> HIFI-GAN                                                                    | [notebook](seminars/seminar08/seminar8.ipynb) |
+| 9 | April, 11    | <b>Lecture:</b> Speaker verification and identification                                     | [slides](lectures/lecture09_DLAudio2024.pdf)  |
+|  | April, 11    | <b>Seminar:</b> Hi-Fi GAN                                                                   | [notebook](seminars/seminar09/seminar.ipynb)  |
+| 10 | April, 18    | <b>Lecture:</b> Music Generation                                                            | [slides](lectures/lecture10_DLAudio2024.pdf)  |
+|  | April, 18    | <b>Seminar:</b> Speaker verification                                                        | [notebook](seminars/seminar10/seminar.ipynb)  |
+| 11 | April, 25    | <b>Lecture:</b> TBA                                                                         | [slides](lectures/lecture10_DLAudio2024.pdf)  |
+|  | April, 25    | <b>Seminar:</b> TBA                                                                         | [notebook](seminars/seminar10/seminar.ipynb)  |
 
 ## Homeworks
 | Homework | Date | Deadline | Description | Link |
