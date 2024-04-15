@@ -30,14 +30,13 @@ Topics discussed in course:
 |  | April, 4     | <b>Seminar:</b> Wavenet                                                                     | [notebook](seminars/seminar06/seminar6.ipynb) |
 | 7 | March, 28    | <b>Lecture:</b>  Voice Conversion: AutoVC, CycleGAN-VC, StarGAN-VC                          | [slides](lectures/lecture07_DLAudio2024.pdf)  |
 |  | April, 4     | <b>Seminar:</b> VAE Wavenet Vocoder, Normalizing Flow                                       | [notebook](seminars/seminar07/seminar7.ipynb) |
-| 8 | April, 4     | <b>Lecture:</b> Self-supervised learning in Audio                                           | [slides](lectures/lecture08_DLAudio2024.pdf)  |
+| 8 | April, 4     | <b>Lecture:</b> Self-supervised learning in Audio (wav2vec2)                                           | [slides](lectures/lecture08_DLAudio2024.pdf)  |
 |  | April, 11    | <b>Seminar:</b> HIFI-GAN                                                                    | [notebook](seminars/seminar08/seminar8.ipynb) |
 | 9 | April, 11    | <b>Lecture:</b> Speaker verification and identification                                     | [slides](lectures/lecture09_DLAudio2024.pdf)  |
-|  | April, 11    | <b>Seminar:</b> Hi-Fi GAN                                                                   | [notebook](seminars/seminar09/seminar.ipynb)  |
-| 10 | April, 18    | <b>Lecture:</b> Music Generation                                                            | [slides](lectures/lecture10_DLAudio2024.pdf)  |
-|  | April, 18    | <b>Seminar:</b> Speaker verification                                                        | [notebook](seminars/seminar10/seminar.ipynb)  |
-| 11 | April, 25    | <b>Lecture:</b> TBA                                                                         | [slides](lectures/lecture10_DLAudio2024.pdf)  |
-|  | April, 25    | <b>Seminar:</b> TBA                                                                         | [notebook](seminars/seminar10/seminar.ipynb)  |
+|  | April, 11    | <b>Seminar:</b> Speaker verification                                                                | [notebook](seminars/seminar09/seminar.ipynb)  |
+| 10 | April, 18    | <b>Lecture:</b> Audio & Music Generation: Jukebox, Diffsound, AudioLM, AudioCraft                           | [slides](lectures/lecture10_DLAudio2024.pdf)  |
+|  | April, 18    | <b>Seminar:</b> TBA                                                   | [notebook](seminars/seminar10/seminar.ipynb)  |
+
 
 ## Homeworks
 | Homework | Date | Deadline | Description | Link |
@@ -45,7 +44,8 @@ Topics discussed in course:
 | 1 | February, 25 | March, 10 | <ol><li>Audio classification</li><li>Audio preprocessing</li></ol> | [![Open In Github](https://img.shields.io/static/v1.svg?logo=github&label=Repo&message=Open%20in%20Github&color=lightgrey)](homework/hw1/) |
 | 2 | March, 14 | March, 28 | ASR-1: CTC | [![Open In Github](https://img.shields.io/static/v1.svg?logo=github&label=Repo&message=Open%20in%20Github&color=lightgrey)](homework/hw2/)  |
 | 3 | March, 14 | April, 11 | ASR-2: RNN-T | [![Open In Github](https://img.shields.io/static/v1.svg?logo=github&label=Repo&message=Open%20in%20Github&color=lightgrey)](homework/hw3/)  |
-| 4 | April, 7 | April, 21 |  |  |
+| 4 | April, 15 | April, 29 | Text-to-speech: FastPitch  | [![Open In Github](https://img.shields.io/static/v1.svg?logo=github&label=Repo&message=Open%20in%20Github&color=lightgrey)](homework/hw4/)  |
+
 
 ## Game rules
 - 4 homeworks each of 2 points = **8 points**
