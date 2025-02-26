@@ -1,1 +1,0 @@
-* [HIFI-GAN article](https://arxiv.org/abs/2010.05646v2)
