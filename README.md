@@ -53,7 +53,7 @@ Topics discussed in course:
 | 2 (2 points) | February, 17 | March, 4 (23:59) | ASR-1: CTC | [![Open In Github](https://img.shields.io/static/v1.svg?logo=github&label=Repo&message=Open%20in%20Github&color=lightgrey)](homework/hw2/)  |
 | 3 (2 points) | March, 6 | March, 22 (23:59) | ASR-2: RNN-T | [![Open In Github](https://img.shields.io/static/v1.svg?logo=github&label=Repo&message=Open%20in%20Github&color=lightgrey)](homework/hw3/)  |
 | 4 (2 points) | March, 24 | April, 6 (23:59) | Speaker Verification | [![Open In Github](https://img.shields.io/static/v1.svg?logo=github&label=Repo&message=Open%20in%20Github&color=lightgrey)](homework/hw4/)  |
-| 5 (2 points) | April, 5 | April, 19 (23:59) | Text-to-speech: FastPitch | [![Open In Github](https://img.shields.io/static/v1.svg?logo=github&label=Repo&message=Open%20in%20Github&color=lightgrey)](homework/hw5/)  |
+| 5 (2 points) | April, 12 | April, 28 (23:59) | Text-to-speech: FastPitch | [![Open In Github](https://img.shields.io/static/v1.svg?logo=github&label=Repo&message=Open%20in%20Github&color=lightgrey)](homework/hw5/)  |
 
 ## Game rules
 - 5 homeworks each of 2 points = **10 points**
