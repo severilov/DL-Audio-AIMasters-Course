@@ -37,13 +37,13 @@ Topics discussed in course:
 |   | <b>Seminar:</b>  | HiFi-GAN | [notebook](seminars/seminar08/seminar8.ipynb) |
 | 9 | <b>Lecture:</b> | Voice Conversion: CycleGAN-VC, StarGAN-VC, AutoVC, Seed-VC, Singing Voice Conversion | [slides](lectures/lecture09_DLAudio2026.pdf)  |
 |   | <b>Seminar:</b> |  | [notebook](seminars/seminar09/seminar.ipynb)  |
-| 10 | <b>Lecture:</b> | Text-to-speech 3: Codec Models (RVQ, SoundStream, Encodec, Mimi), VQ-VAE, VALL-E, TortoiseTTS, NaturalSpeech, CozyVoice, FishSpeech | [slides](lectures/lecture10_DLAudio2026.pdf)  |
+| 10 | <b>Lecture:</b> | Text-to-speech 3: Codec Models (RVQ, SoundStream, Encodec, Mimi), VQ-VAE, VALL-E, ParlerTTS, TortoiseTTS, CozyVoice, SeedTTS, BaseTTS | [slides](lectures/lecture10_DLAudio2026.pdf)  |
 |    | <b>Seminar:</b> | Encodec, Soundstream, Residual Vector Quantization | [notebook](seminars/seminar10/seminar.ipynb)  |
 | 11 | <b>Lecture:</b> | LLM-based audio models: SEED-ASR, Llama3, Phi4, SpeechGPT, Mini-Omni, Llama-Omni, Moshi | [slides](lectures/lecture11_DLAudio2026.pdf)  |
 |    | <b>Seminar:</b> | VITS, Normalizing flows | [notebook](seminars/seminar11/seminar.ipynb)  |
 | 12 | <b>Lecture:</b> | Audio & Music Generation: Jukebox, Diffusion models (Diffsound, Riffusion, Noise2Music), AudioLM & MusicLM, AudioGen & MusicGen, MeLoDy, YuE, Music Agents | [slides](lectures/lecture12_DLAudio2026.pdf)  |
 |    | <b>Seminar:</b> | |   |
-| TBD | <b>Lecture:</b> | FishSpeech, XTTS, SpearTTS, MQTTS |  |
+| TBD | <b>Lecture:</b> | FishSpeech, XTTS, SpearTTS |  |
 
 
 ## Homeworks
