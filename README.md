@@ -10,7 +10,7 @@ Topics discussed in course:
 - Voice Conversion
 - Self supervised learning in Audio
 - Codec models
-- LLM-based Audio Generation
+- LLM-based Audio Models
 - Music & Audio Generation
 - Speaker verification
 
@@ -39,11 +39,10 @@ Topics discussed in course:
 |   | <b>Seminar:</b> |  | [notebook](seminars/seminar09/seminar.ipynb)  |
 | 10 | <b>Lecture:</b> | Text-to-speech 3: Codec Models (RVQ, SoundStream, Encodec, Mimi), VQ-VAE, VALL-E, ParlerTTS, TortoiseTTS, CozyVoice, SeedTTS, BaseTTS | [slides](lectures/lecture10_DLAudio2026.pdf)  |
 |    | <b>Seminar:</b> | Encodec, Soundstream, Residual Vector Quantization | [notebook](seminars/seminar10/seminar.ipynb)  |
-| 11 | <b>Lecture:</b> | LLM-based audio models: SEED-ASR, Llama3, Phi4, SpeechGPT, Mini-Omni, Llama-Omni, Moshi | [slides](lectures/lecture11_DLAudio2026.pdf)  |
+| 11 | <b>Lecture:</b> | LLM-based audio models: Audio Conditioned LLMs (SEED-ASR, Llama3, Phi4, Voxtral), LLM-based TTS (TTS-1, FishSpeech, Qwen3-TTS), OmniModels (SpeechGPT, Mini-Omni, Llama-Omni, Moshi, Qwen3-Omni) | [slides](lectures/lecture11_DLAudio2026.pdf)  |
 |    | <b>Seminar:</b> | VITS, Normalizing flows | [notebook](seminars/seminar11/seminar.ipynb)  |
-| 12 | <b>Lecture:</b> | Audio & Music Generation: Jukebox, Diffusion models (Diffsound, Riffusion, Noise2Music), AudioLM & MusicLM, AudioGen & MusicGen, MeLoDy, YuE, Music Agents | [slides](lectures/lecture12_DLAudio2026.pdf)  |
-|    | <b>Seminar:</b> | |   |
-| TBD | <b>Lecture:</b> | FishSpeech, XTTS, SpearTTS |  |
+| 12 | <b>Lecture:</b> | Music Generation: Jukebox, Diffusion models (Diffsound, Riffusion, Noise2Music), AudioLM & MusicLM, AudioGen & MusicGen, MeLoDy, YuE, HeartMuLa, DiffRhythm 2, ACE-Step, Music Agents | [slides](lectures/lecture12_DLAudio2026.pdf)  |
+|    | <b>Seminar:</b> | TortoiseTTS |   |
 
 
 ## Homeworks
