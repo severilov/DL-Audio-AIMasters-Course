@@ -125,6 +125,7 @@ def sequence_mask(length, max_length=None):
   return x.unsqueeze(0) < length.unsqueeze(1)
 
 
+# TODO: What's happening here
 def generate_path(duration, mask):
   """
   duration: [b, 1, t_x]
